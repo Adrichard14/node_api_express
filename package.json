@@ -1,0 +1,21 @@
+{
+  "name": "api_node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Adrian Richard <adrichard14@hotmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "nodemon": "^2.0.4"
+  }
+}
